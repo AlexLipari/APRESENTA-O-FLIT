@@ -1,3 +1,8 @@
 Nome:Alexandre Lipari
 Idade:48 anos
 Rotina básica: Inicio o dia normalmente as 8:00 de acordo com o projeto que estou realizando, cuido da casa e do almoço e as 19:00 me preparo para entrar em aula.
+
+Incluindo dados do meu colega de sala:
+Nome: Marcos
+Idade: 29 anos
+Rotina basica dele: Trabalha prestando serviço de advocacia que é sua formação , também atua com uma loja virtual de camiseta esportiva e estuda na flit no periodo noturno.
